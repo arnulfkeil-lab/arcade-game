@@ -173,3 +173,4 @@ game.showLongText("REALITY HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAH", DialogL
 game.showLongText("WHAT YOU FIND THAT NOT AMUSING?", DialogLayout.Bottom)
 game.showLongText("DIE MAUWHAHAHAHAHAHA", DialogLayout.Bottom)
 game.gameOver(false)
+game.setGameOverScoringType(game.ScoringType.HighScore)
